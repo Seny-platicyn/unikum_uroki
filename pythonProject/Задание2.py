@@ -1,0 +1,5 @@
+a = input('Введите фразу: ')
+upheaval = a.split()
+upheaval.reverse()
+print('наоборот:')
+print(upheaval)
